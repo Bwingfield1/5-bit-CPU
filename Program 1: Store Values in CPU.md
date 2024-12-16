@@ -1,6 +1,5 @@
 # Storing Hex Value in the Memory.
 This program loads A and adds B, which will then store in C.
-    #### Program
 | Position | Memory | Instruction |
 |--------|--------|--------|
 | 000 |  | Load A |
