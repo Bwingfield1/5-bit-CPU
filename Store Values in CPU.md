@@ -15,10 +15,10 @@ This program loads A and adds B, which will then store in C.
 ![load1](https://github.com/user-attachments/assets/0a5e94e5-72d1-4ef9-9f90-9d3333899a84)
 
 ### Add B
-![andC](https://github.com/user-attachments/assets/9ef0f766-d3e9-4fd9-a471-ce3b32766af8)
+![add](https://github.com/user-attachments/assets/f9d621bb-825b-44d0-86fd-a470d6ad6424)
 
 ### Store C
-![storeC](https://github.com/user-attachments/assets/b2a7ea3d-9f6e-4b0c-b536-2daeae553427)
+![storeC](https://github.com/user-attachments/assets/fd4f2158-b534-425c-a8e0-6a0ef9f2d8c7)
 
 ### Updated Memory
 | Position | Memory | Instruction |
