@@ -19,3 +19,15 @@ This program loads A and adds B, which will then store in C.
 
 ### Store C
 ![storeC](https://github.com/user-attachments/assets/63293266-5635-44c5-aaee-517d7811b814)
+
+### Updated Memory
+| Position | Memory | Instruction |
+|--------|--------|--------|
+| 000 |  | Load A |
+| 001 |  | Add B |
+| 010 |  | Store C |
+| 011 |  | 00000 |
+| 100 | A | 00111 |
+| 101 | B | 00110 |
+| 110 | C | 01101 |
+| 111 | D | 00000 |
