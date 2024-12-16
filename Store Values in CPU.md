@@ -49,9 +49,9 @@ This program loads A and ands B, which will then store in D.
 ![load1](https://github.com/user-attachments/assets/0a5e94e5-72d1-4ef9-9f90-9d3333899a84)
 
 ### And B
-
+![and](https://github.com/user-attachments/assets/e603acbb-2c7c-40a0-981c-661245a97212)
 ### Store D
-
+![storeD](https://github.com/user-attachments/assets/07756b4b-6379-4dd2-b883-dd19bff462c1)
 ### Updated Table
 | Position | Memory | Instruction |
 |--------|--------|--------|
